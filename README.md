@@ -4,7 +4,7 @@
 
 ### Installation in project
 ```bash
-npm install react-native-simple-encryption --save
+npm install isemptyobjectcheck --save
 ```
 
 # Example
